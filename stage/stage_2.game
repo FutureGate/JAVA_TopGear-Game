@@ -1,0 +1,4 @@
+ROAD:0,0,4,0
+ROAD:4,0,4,4
+DOOR:2,1,true
+PLAYER:0,0,2
